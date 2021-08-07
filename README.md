@@ -7,4 +7,4 @@
 - 💬 Ask me about: Machine Learning 💻,Deep Learning,WebDevelopment and Little about Block Chain Technology. 
 - 📫 How to reach me: Gmail Id- harshaldharpure9922@gmail.com
 - 😄 Pronouns: HarshI_D 👽
-- ⚡ Fun fact:🎭 Above Information MayNot be True. ☠
+- ⚡ Fun fact:🎭 Hot water will turn into ice faster than cold water. ☠
