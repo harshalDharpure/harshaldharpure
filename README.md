@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://github.com/YourUsername/YourUsername/blob/main/assets/header.png" alt="Header" width="800">
+  ![Header](./your-header-image-name.png)
 </p>
 
 <!-- Introduction -->
