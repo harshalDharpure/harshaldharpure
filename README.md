@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning .
+- 🌱 I’m Interested in Machine learning & Data Science.
 -
 - 😄 Pronouns: HarshI_D 👽
 -
