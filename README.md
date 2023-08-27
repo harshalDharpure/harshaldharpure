@@ -1,9 +1,6 @@
 <!-- Header -->
-<p align="center">
-<img src="![Header](./your-header-image-name.png)
+![example-3](https://github.com/harshalDharpure/harshaldharpure/assets/63531290/31cdac3c-c2cd-47b0-8c88-e0c68e200939)
 
-" alt="Data Visualization" width="800">
-</p>
 
 <!-- Introduction -->
 # Hi there, I'm Harshal Dharpure 👋
