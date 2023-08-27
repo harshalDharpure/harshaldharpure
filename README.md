@@ -1,5 +1,6 @@
 <!-- Header -->
-![example-3](https://github.com/harshalDharpure/harshaldharpure/assets/63531290/31cdac3c-c2cd-47b0-8c88-e0c68e200939)
+
+![github-header-image (1)](https://github.com/harshalDharpure/harshaldharpure/assets/63531290/6da229bf-8d52-4f7c-a26a-aabb18c4590e)
 
 
 <!-- Introduction -->
@@ -10,9 +11,8 @@
 Welcome to my data-driven realm! 🌐 As a data magician and machine learning explorer, I'm on a journey to turn raw information into impactful insights. Let's dive into the world of AI and uncover the power of Large Language Models (LLMs) and General Artificial Intelligence (GenAI) apps! 🚀
 
 <!-- Visual Showcase -->
-<p align="center">
-  <img src="https://github.com/YourUsername/YourUsername/blob/main/assets/dataviz.png" alt="Data Visualization" width="800">
-</p>
+![datatools](https://github.com/harshalDharpure/harshaldharpure/assets/63531290/78374bc2-1259-4cd9-90ac-d5ec45c735e6)
+
 
 ## 👩‍💻 What I Do
 
