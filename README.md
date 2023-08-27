@@ -1,6 +1,8 @@
 <!-- Header -->
 <p align="center">
-  ![Header](./your-header-image-name.png)
+<img src="![Header](./your-header-image-name.png)
+
+" alt="Data Visualization" width="800">
 </p>
 
 <!-- Introduction -->
