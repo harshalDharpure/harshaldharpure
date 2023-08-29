@@ -70,5 +70,3 @@ Got an exciting project in mind or just want to talk tech? I'm all ears! Feel fr
 
 **Looking forward to exploring the tech cosmos with you!** 🌌
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshalDharpure)](https://github.com/anuraghazra/github-readme-stats)
