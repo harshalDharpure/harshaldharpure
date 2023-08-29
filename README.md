@@ -21,9 +21,8 @@ Welcome to my data-driven realm! 🌐 As a data magician and machine learning ex
 - 🌐 **GenAI Applications:** Building apps that harness the power of AI to create something extraordinary.
 
 <!-- Toolbox Showcase -->
-<p align="center">
-  <img src="https://github.com/YourUsername/YourUsername/blob/main/assets/toolbox.png" alt="Toolbox" width="800">
-</p>
+
+![github-header-123](https://github.com/harshalDharpure/harshaldharpure/assets/63531290/32a4fcd8-8d65-446c-ab9f-66896d4fe770)
 
 ## 🧰 My Toolbox
 
@@ -35,10 +34,6 @@ Welcome to my data-driven realm! 🌐 As a data magician and machine learning ex
 - **Version Control:** Git, GitHub
 - **IDE:** Jupyter Notebook, VS Code
 
-<!-- Projects Showcase -->
-<p align="center">
-  <img src="https://github.com/YourUsername/YourUsername/blob/main/assets/projects.png" alt="Projects" width="800">
-</p>
 
 ## 🚀 My Projects
 
@@ -46,10 +41,6 @@ Welcome to my data-driven realm! 🌐 As a data magician and machine learning ex
 - **[DataViz Dashboard](https://github.com/YourUsername/DataViz-Dashboard):** Interactive visualizations that bring data to life.
 - **[Predict-o-Matic](https://github.com/YourUsername/Predict-o-Matic):** A machine learning model predicting your next big decision.
 
-<!-- Connect and Collaborate -->
-<p align="center">
-  <img src="https://github.com/YourUsername/YourUsername/blob/main/assets/connect.png" alt="Connect" width="800">
-</p>
 
 ## 🌐 Let's Connect
 
@@ -57,10 +48,6 @@ Welcome to my data-driven realm! 🌐 As a data magician and machine learning ex
 - [Twitter](https://twitter.com/yourusername)
 - [Medium](https://medium.com/@yourusername)
 
-<!-- Reach Out -->
-<p align="center">
-  <img src="https://github.com/YourUsername/YourUsername/blob/main/assets/reachout.png" alt="Reach Out" width="800">
-</p>
 
 ## 🚀 Let's Collaborate
 
