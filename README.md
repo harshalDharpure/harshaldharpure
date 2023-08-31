@@ -35,25 +35,17 @@ Welcome to my data-driven realm! 🌐 As a data magician and machine learning ex
 - **IDE:** Jupyter Notebook, VS Code
 
 
-## 🚀 My Projects
-
-- **[GenAI ChatBot](https://github.com/YourUsername/GenAI-ChatBot):** A conversational AI powered by GPT-3 to chat about anything under the sun.
-- **[DataViz Dashboard](https://github.com/YourUsername/DataViz-Dashboard):** Interactive visualizations that bring data to life.
-- **[Predict-o-Matic](https://github.com/YourUsername/Predict-o-Matic):** A machine learning model predicting your next big decision.
-
-
 ## 🌐 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/harshal-dharpure)
-- [Twitter](https://twitter.com/yourusername)
-- [Medium](https://medium.com/@yourusername)
+- [LinkedIn](https://www.linkedin.com/in/harshald9922/)
+- [Analyticspoint](https://www.analyticspoint.tech/)
 
 
 ## 🚀 Let's Collaborate
 
 Got an exciting project in mind or just want to talk tech? I'm all ears! Feel free to reach out, and let's bring innovative ideas to life together.
 
-💌 Contact me at: [your@email.com](mailto:your@email.com)
+💌 Contact me at: [your@email.com](mailto:harshaldharpure9922@gmail.com)
 
 **Looking forward to exploring the tech cosmos with you!** 🌌
 
