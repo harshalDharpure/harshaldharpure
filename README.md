@@ -45,7 +45,7 @@ Welcome to my data-driven realm! 🌐 As a data magician and machine learning ex
 
 Got an exciting project in mind or just want to talk tech? I'm all ears! Feel free to reach out, and let's bring innovative ideas to life together.
 
-💌 Contact me at: [your@email.com](mailto:harshaldharpure9922@gmail.com)
+💌 Contact me at: [harshaldharpure9922@email.com](mailto:harshaldharpure9922@gmail.com)
 
 **Looking forward to exploring the tech cosmos with you!** 🌌
 
