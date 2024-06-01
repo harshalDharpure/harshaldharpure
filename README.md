@@ -6,7 +6,7 @@
 <!-- Introduction -->
 # Hi there, I'm Harshal Dharpure 👋
 
-🌟 Data Science Enthusiast | Machine Learning Enthusiast | Data Analyst 🌟
+🌟 Data Science Enthusiast | Machine Learning Enthusiast | Data Engineering 🌟
 
 Welcome to my data-driven realm! 🌐 As a data magician and machine learning explorer, I'm on a journey to turn raw information into impactful insights. Let's dive into the world of AI and uncover the power of Large Language Models (LLMs) and General Artificial Intelligence (GenAI) apps! 🚀
 
