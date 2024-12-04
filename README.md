@@ -8,7 +8,7 @@
 
 🌟 Data Science Enthusiast | Machine Learning Enthusiast | Data Engineering 🌟
 
-Welcome to my data-driven realm! 🌐 As a data magician and machine learning explorer, I'm on a journey to turn raw information into impactful insights. Let's dive into the world of AI and uncover the power of Large Language Models (LLMs) and General Artificial Intelligence (GenAI) apps! 🚀
+Welcome to my world of data and AI! I specialize in transforming data into actionable insights and building intelligent applications powered by cutting-edge AI technologies.
 
 <!-- Visual Showcase -->
 ![datatools](https://github.com/harshalDharpure/harshaldharpure/assets/63531290/78374bc2-1259-4cd9-90ac-d5ec45c735e6)
@@ -16,9 +16,9 @@ Welcome to my data-driven realm! 🌐 As a data magician and machine learning ex
 
 ## 👩‍💻 What I Do
 
-- 📊 **Data Alchemist:** Transforming complex data into visual stories that speak volumes.
-- 🤖 **Machine Learning Explorer:** Navigating the realms of AI and training models to predict the future.
-- 🌐 **GenAI Applications:** Building apps that harness the power of AI to create something extraordinary.
+📊 **Data Analysis:** Crafting meaningful stories from complex datasets.
+🤖 **Machine Learning:** Developing predictive models to unlock the future.
+🌐 **GenAI Apps:** Creating innovative solutions with LLMs and AI tools..
 
 <!-- Toolbox Showcase -->
 
@@ -28,17 +28,14 @@ Welcome to my data-driven realm! 🌐 As a data magician and machine learning ex
 
 - **Languages:** Python, R
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras
-- **Data Analysis:** Pandas, NumPy, SQL
-- **Visualization:** Matplotlib, Seaborn, Plotly
 - **GenAI:** OpenAI's GPT-3, ChatGPT
-- **Version Control:** Git, GitHub
-- **IDE:** Jupyter Notebook, VS Code
+
 
 
 ## 🌐 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/harshald9922/)
-- [Analyticspoint](https://www.analyticspoint.tech/)
+
 
 
 ## 🚀 Let's Collaborate
