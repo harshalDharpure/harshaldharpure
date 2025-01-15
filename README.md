@@ -19,8 +19,6 @@ Welcome to my world of data and AI! I specialize in transforming data into actio
 
 <!-- Toolbox Showcase -->
 
-![github-header-123](https://github.com/harshalDharpure/harshaldharpure/assets/63531290/32a4fcd8-8d65-446c-ab9f-66896d4fe770)
-
 ## 🧰 My Toolbox
 
 - **Languages:** Python, R
