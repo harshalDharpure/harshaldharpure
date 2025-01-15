@@ -11,12 +11,9 @@
 Welcome to my world of data and AI! I specialize in transforming data into actionable insights and building intelligent applications powered by cutting-edge AI technologies.
 
 <!-- Visual Showcase -->
-![datatools](https://github.com/harshalDharpure/harshaldharpure/assets/63531290/78374bc2-1259-4cd9-90ac-d5ec45c735e6)
-
 
 ## 👩‍💻 What I Do
 
-📊 **Data Analysis:** Crafting meaningful stories from complex datasets.
 🤖 **Machine Learning:** Developing predictive models to unlock the future.
 🌐 **GenAI Apps:** Creating innovative solutions with LLMs and AI tools..
 
