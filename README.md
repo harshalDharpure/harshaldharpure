@@ -23,7 +23,6 @@ Welcome to my world of data and AI! I specialize in transforming data into actio
 
 - **Languages:** Python, R
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras
-- **GenAI:** OpenAI's GPT-3, ChatGPT
 
 
 
